@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "816121429814",
+    "firebase_url": "https://samplepush-872a1.firebaseio.com",
+    "project_id": "samplepush-872a1",
+    "storage_bucket": "samplepush-872a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816121429814:android:b3a39ed2433d75ef",
+        "android_client_info": {
+          "package_name": "eu.samplePush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816121429814-r0q4k65ucpb2g4mffjcnaluk357fsat9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXTouxfu0Fq1mT2HSy0oe8yrCT089z8m8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
